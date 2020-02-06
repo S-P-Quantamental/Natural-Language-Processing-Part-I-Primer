@@ -1,0 +1,48 @@
+Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All
+rights reserved.
+These materials have been prepared solely for information purposes based upon
+information generally available to the public and from sources believed to be reliable. No
+content (including index data, ratings, credit-related analyses and data, research, model,
+software or other application or output therefrom) or any part thereof (Content) may be
+modified, reverse engineered, reproduced or distributed in any form by any means, or
+stored in a database or retrieval system, without the prior written permission of S&P
+Global Market Intelligence or its affiliates (collectively, S&P Global). The Content shall not
+be used for any unlawful or unauthorized purposes. S&P Global and any third-party
+providers, (collectively S&P Global Parties) do not guarantee the accuracy,
+completeness, timeliness or availability of the Content. S&P Global Parties are not
+responsible for any errors or omissions, regardless of the cause, for the results obtained
+from the use of the Content. THE CONTENT IS PROVIDED ON “AS IS” BASIS. S&P
+GLOBAL PARTIES DISCLAIM ANY AND ALL EXPRESS OR IMPLIED WARRANTIES,
+INCLUDING, BUT NOT LIMITED TO, ANY WARRANTIES OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE OR USE, FREEDOM FROM BUGS,
+SOFTWARE ERRORS OR DEFECTS, THAT THE CONTENT’S FUNCTIONING WILL
+BE UNINTERRUPTED OR THAT THE CONTENT WILL OPERATE WITH ANY
+SOFTWARE OR HARDWARE CONFIGURATION. In no event shall S&P Global Parties
+be liable to any party for any direct, indirect, incidental, exemplary, compensatory,
+punitive, special or consequential damages, costs, expenses, legal fees, or losses
+(including, without limitation, lost income or lost profits and opportunity costs or losses
+caused by negligence) in connection with any use of the Content even if advised of the
+possibility of such damages.
+S&P Global Market Intelligence’s opinions, quotes and credit-related and other analyses
+are statements of opinion as of the date they are expressed and not statements of
+fact or recommendations to purchase, hold, or sell any securities or to make any
+investment decisions, and do not address the suitability of any security. S&P Global
+Market Intelligence may provide index data. Direct investment in an index is not possible.
+Exposure to an asset class represented by an index is available through investable
+instruments based on that index. S&P Global Market Intelligence assumes no obligation
+to update the Content following publication in any form or format. The Content should not
+be relied on and is not a substitute for the skill, judgment and experience of the user, its
+management, employees, advisors and/or clients when making investment and other
+business decisions. S&P Global keeps certain activities of its divisions separate from each
+other in order to preserve the independence and objectivity of their respective activities. 
+As a result, certain divisions of S&P Global may have information that is not available to
+other S&P Global divisions. S&P Global has established policies and procedures to
+maintain the confidentiality of certain non-public information received in connection with
+each analytical process.
+S&P Global may receive compensation for its ratings and certain analyses, normally from
+issuers or underwriters of securities or from obligors. S&P Global reserves the right to
+disseminate its opinions and analyses. S&P Global's public ratings and analyses are
+made available on its Web sites, www.standardandpoors.com (free of charge) and
+www.ratingsdirect.com (subscription), and may be distributed through other means,
+including via S&P Global publications and third-party redistributors. Additional information
+about our ratings fees is available at www.standardandpoors.com/usratingsfees.
