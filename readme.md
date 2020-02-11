@@ -48,19 +48,19 @@ master_list = list(tmpWordListPandaObj.master)
 master_list = [ itr for itr in master_list if not isinstance(itr,float) ]  
 master_list = [itr.lower() for itr in master_list] # make all lowercase
                                                                                       
-fn  = 'wordLists\\litList2009.txt' # input file
+fn = 'wordLists\\litList2009.txt' # input file
 tmpWordListPandaObj = pd.read_csv(fn, sep='\t', header=None) # read in tab-delimited text file with no header
 tmpWordListPandaObj.columns = ['litigious'] 		# rename cols 
 litigious_list = list(tmpWordListPandaObj.litigious)                                                         
 litigious_list = [itr.lower() for itr in litigious_list] # make all lowercase
 
-fn   = 'wordLists\\negList2009.txt' # input file
+fn = 'wordLists\\negList2009.txt' # input file
 tmpWordListPandaObj = pd.read_csv(fn, sep='\t', header=None) # read in tab-delimited text file with no header
 tmpWordListPandaObj.columns = ['negative'] 		# rename cols 
 negative_list = list(tmpWordListPandaObj.negative)  
 negative_list = [itr.lower() for itr in negative_list] # make all lowercase
 
-fn  = 'wordLists\\posList2009.txt' # input file
+fn = 'wordLists\\posList2009.txt' # input file
 tmpWordListPandaObj = pd.read_csv(fn, sep='\t', header=None) # read in tab-delimited text file with no header
 tmpWordListPandaObj.columns = ['positive'] 		# rename cols 
 positive_list = list(tmpWordListPandaObj.positive)  
