@@ -1,6 +1,6 @@
 # Natural Language Processing – Part I: Primer
-## Unveiling the Hidden Information in Earnings Calls
-## As of Sep. 5, 2017 by Frank Zhao, Quantamental Research Group at S&P Global Market Intelligence 
+#### Unveiling the Hidden Information in Earnings Calls
+### As of Sep. 5, 2017 by Frank Zhao, Quantamental Research Group at S&P Global Market Intelligence 
 
 ---
 Analyses for the primer are performed with Python and Matlab. All the NLP is done in Python, a tool that is free, ubiquitous in the field, and robust once the practitioner can navigate the learning curve. The calculations and matrix manipulations are done in Matlab (Python does have a Matlab-like library numpy, but we used Matlab due to preference).
