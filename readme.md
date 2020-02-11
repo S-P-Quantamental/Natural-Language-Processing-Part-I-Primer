@@ -47,31 +47,26 @@ tmpWordListPandaObj.columns = ['master'] 		# rename cols
 master_list = list(tmpWordListPandaObj.master)    
 master_list = [ itr for itr in master_list if not isinstance(itr,float) ]  
 master_list = [itr.lower() for itr in master_list] # make all lowercase
-                                                                                      
-fn = 'wordLists\\litList2009.txt' # input file
-tmpWordListPandaObj = pd.read_csv(fn, sep='\t', header=None) # read in tab-delimited text file with no header
-tmpWordListPandaObj.columns = ['litigious'] 		# rename cols 
-litigious_list = list(tmpWordListPandaObj.litigious)                                                         
-litigious_list = [itr.lower() for itr in litigious_list] # make all lowercase
-
-fn = 'wordLists\\negList2009.txt' # input file
-tmpWordListPandaObj = pd.read_csv(fn, sep='\t', header=None) # read in tab-delimited text file with no header
-tmpWordListPandaObj.columns = ['negative'] 		# rename cols 
-negative_list = list(tmpWordListPandaObj.negative)  
-negative_list = [itr.lower() for itr in negative_list] # make all lowercase
-
-fn = 'wordLists\\posList2009.txt' # input file
-tmpWordListPandaObj = pd.read_csv(fn, sep='\t', header=None) # read in tab-delimited text file with no header
-tmpWordListPandaObj.columns = ['positive'] 		# rename cols 
-positive_list = list(tmpWordListPandaObj.positive)  
-positive_list = [itr.lower() for itr in positive_list] # make all lowercase
-                                                                                 
-negation_list = ['no', 'not', 'none', 'neither', 'never', 'nobody'];
-
-myDict = nltk.corpus.cmudict.dict()  
 ```
 
 ---
+
+Step 6: Define the functions that you are going to use. The one function included below
+outputs the frequency count of words (lines 84 - 160).
+
+```python
+# check whether a word from list2 is in list1 then count the frequency of that word
+def _out_word_freq1(list1, list2):
+    wordFreqDictObj = {}
+    for item in list2: 
+        if item in list1: 
+            wordFreqDictObj[item] = wordFreqDictObj.get(item, 0) + 1
+    return wordFreqDictObj
+```
+
+---
+
+
 
 Copyright © 2020 by S&P Global Market Intelligence, a division of S&P Global Inc. All
 rights reserved. 
