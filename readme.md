@@ -1,4 +1,4 @@
-# Natural Language Processing – Part I: Primer
+# [Natural Language Processing – Part I: Primer](https://www.spglobal.com/marketintelligence/en/news-insights/research/natural-language-processing-part-i-primer)
 #### Unveiling the Hidden Information in Earnings Calls
 ### As of Sep. 5, 2017 by Frank Zhao, Quantamental Research Group at S&P Global Market Intelligence 
 
